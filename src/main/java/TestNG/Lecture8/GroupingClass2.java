@@ -18,5 +18,7 @@ public class GroupingClass2 {
 //@Test(groups="group2")
 		public void GFunc7() {
 			System.out.println("GroupingFunction 7");
+			System.out.println("How are you");
 		}
+//		//driver.close();
 }

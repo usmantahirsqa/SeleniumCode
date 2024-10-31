@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-29T13:51:15 PKT" name="Suite" finished-at="2024-10-29T13:51:37 PKT" duration-ms="21882">
+  <suite started-at="2024-10-31T11:52:40 PKT" name="Suite" finished-at="2024-10-31T11:53:58 PKT" duration-ms="78062">
     <groups>
     </groups>
-    <test started-at="2024-10-29T13:51:15 PKT" name="Test" finished-at="2024-10-29T13:51:37 PKT" duration-ms="21882">
+    <test started-at="2024-10-31T11:52:40 PKT" name="Test" finished-at="2024-10-31T11:53:58 PKT" duration-ms="78062">
       <class name="TestNG.Lecture8.Reporting">
-        <test-method signature="getData()[pri:0, instance:TestNG.Lecture8.Reporting@55141def]" started-at="2024-10-29T13:51:15 PKT" name="getData" finished-at="2024-10-29T13:51:37 PKT" duration-ms="21706" status="PASS">
+        <test-method signature="getData()[pri:0, instance:TestNG.Lecture8.Reporting@799f10e1]" started-at="2024-10-31T11:52:40 PKT" name="getData" finished-at="2024-10-31T11:53:58 PKT" duration-ms="77946" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getData -->
